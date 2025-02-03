@@ -3,3 +3,6 @@ En este espacio los alumnos del curso de automatismos compartirán sus códigos,
 
 Enlace para instalar en Arduino las librerias de ESP32
 https://espressif.github.io/arduino-esp32/package_esp32_index.json 
+
+Enlace Crocodrile Clips
+https://crocodileclips.net/
